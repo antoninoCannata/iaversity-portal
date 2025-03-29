@@ -1,0 +1,15 @@
+.footer-hidden {
+  transform: translateY(100%);
+}
+
+
+.footer {
+  background-color: #082d47 !important;
+  color: white;
+}
+
+.transition-footer {
+  transition: transform 0.3s ease-in-out;
+}
+
+

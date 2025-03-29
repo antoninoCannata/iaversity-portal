@@ -1,0 +1,20 @@
+.navbar {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .navbar {
+    background-color: #082d47 !important;
+  
+    .nav-link,
+    .navbar-brand {
+      color: #fff !important;
+    }
+  
+    .nav-link:hover {
+      text-decoration: underline;
+    }
+  
+    img {
+      filter: brightness(0) invert(1);
+    }
+  }
+  
